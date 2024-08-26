@@ -1,0 +1,15 @@
+/* nav
+{
+    float: left;
+    background-color: aqua;
+    width:2in;
+    outline: auto;
+    margin:.3in;
+    padding: .3in;
+    padding-right: 0;
+} */
+.cont
+{
+    border: 1px;
+    border-color: red;
+}

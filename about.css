@@ -1,0 +1,18 @@
+#one
+{
+    text-align: center;
+    font-size: x-large;
+}
+a
+{
+    color: red;
+}
+a:hover
+{
+    color: blue;
+}
+
+body div {
+    background-color: #FAFAFA;
+    padding: 25px 15px;
+}

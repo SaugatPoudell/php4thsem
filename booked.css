@@ -1,0 +1,15 @@
+tr
+{
+    border:1px;
+    width:1000px;
+}
+table
+{
+    background-color:white;
+    border-collapse: collapse;
+    
+}
+table:nth-child(1)
+{
+    background-color: aliceblue;
+}
